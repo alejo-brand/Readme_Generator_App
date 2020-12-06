@@ -1,7 +1,7 @@
-# rf
+# erg
 
 ## Description
-rf
+erg
 
 ## Table of Content
 
@@ -15,36 +15,31 @@ rf
 * [installation Instructions](#installation)
 * [installation Instructions](#installation)
 ## Motivation/Purpose
-er
+eg
 
 ## Instalation
-frf\f\
+e
 
 ## Usage
-wf
+rg
 
 ## License
 
-
-* [License](#license)
-
-
-![License](https://img.shields.io/badge/license-BSD_3-informational.svg)
-
+![License](https://img.shields.io/badge/license-Apache2.0-informational.svg)
 
 ## Testing
-fw
+erg
 
 ## Contributing
-wef
+erg
 
 ## Feedback
 your feedback is extremely important for improvements in future developments, in order to accomplish this, you can:
-wef
+erg
 
 ## Developer Contact
-* GitHub Username: frf
-* Email: frf
+* GitHub Username: erg
+* Email: erg
     
     
     
