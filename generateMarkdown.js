@@ -1,35 +1,58 @@
+// function createBadge ()
+
+
+
+
+
 //this function will generate the markdown for the readme
 function generateMarkdown(data){
     return `# ${data.projectName}
 
-    ## Description
-    ${data.description}
+## Description
+${data.description}
 
-    ## Motivation/Purpose
-    ${data.motivation}
+## Table of Content
 
-    ## Instalation
-    ${data.instalation}
+* [Motivation](#motivation)
+* [installation Instructions](#installation)
+* [Usage](#installation)
+* [license](#license)
+* [installation Instructions](#installation)
+* [installation Instructions](#installation)
+* [installation Instructions](#installation)
+* [installation Instructions](#installation)
+* [installation Instructions](#installation)
+## Motivation/Purpose
+${data.motivation}
 
-    ## Usage
-    ${data.usage}
+## Instalation
+${data.installation}
 
-    ## License
-    ${data.license}
+## Usage
+${data.usage}
 
-    ## Testing
-    ${data.test}
+## License
 
-    ## Contributing
-    ${data.contribution}
+${data.license}
 
-    ## Feedback
-    your feedback is extremely important for improvements in future developments, in order to accomplish this, you can:
-    ${data.feedback}
+\n* [License](#license)\n
 
-    ## Developer Contact
-    #GitHub Username: ${data.GitHubNamer}
-    #Email: ${data.email}
+![License](https://img.shields.io/badge/LICENSE-${data.license}-informational.svg)
+
+
+## Testing
+${data.test}
+
+## Contributing
+${data.contribution}
+
+## Feedback
+your feedback is extremely important for improvements in future developments, in order to accomplish this, you can:
+${data.feedback}
+
+## Developer Contact
+* GitHub Username: ${data.GitHubName}
+* Email: ${data.email}
     
     
     `;

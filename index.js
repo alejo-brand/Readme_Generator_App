@@ -29,14 +29,16 @@ const  questions = [
         message: 'What was your motivation to build this project',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'what license does the project require',
+        choices:["MIT","Apache 2.0","GPL 3.0","BSD 3","None"]
     },
     {
         type: 'input',
         name: 'installation',
         message: 'what is the command line necessary to install all the dependencies required',
+        default: 'npm i',
     },
     {
         type: 'input',
