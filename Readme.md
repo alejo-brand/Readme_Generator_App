@@ -1,7 +1,7 @@
-# wrf
+# rf
 
 ## Description
-wrf
+rf
 
 ## Table of Content
 
@@ -15,38 +15,36 @@ wrf
 * [installation Instructions](#installation)
 * [installation Instructions](#installation)
 ## Motivation/Purpose
-wf
+er
 
 ## Instalation
-we
+frf\f\
 
 ## Usage
-f
+wf
 
 ## License
-
-GPL3.0
 
 
 * [License](#license)
 
 
-![License](https://img.shields.io/badge/license-GPL3.0-informational.svg)
+![License](https://img.shields.io/badge/license-BSD_3-informational.svg)
 
 
 ## Testing
-wfrf
+fw
 
 ## Contributing
-rf
+wef
 
 ## Feedback
 your feedback is extremely important for improvements in future developments, in order to accomplish this, you can:
-wrf
+wef
 
 ## Developer Contact
-* GitHub Username: rfw
-* Email: fwf
+* GitHub Username: frf
+* Email: frf
     
     
     
