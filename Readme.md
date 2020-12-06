@@ -1,7 +1,7 @@
-# bt
+# de
 
 ## Description
-dv
+eddq
 
 ## Table of Content
 
@@ -15,38 +15,38 @@ dv
 * [installation Instructions](#installation)
 * [installation Instructions](#installation)
 ## Motivation/Purpose
-wrf
+edwd
 
 ## Instalation
-wfw
+npm i
 
 ## Usage
-ff
+dq
 
 ## License
 
-GPL 3.0
+MIT
 
 
 * [License](#license)
 
 
-![License](https://img.shields.io/badge/LICENSE-GPL 3.0-informational.svg)
+![License](https://img.shields.io/badge/license-MIT-informational.svg)
 
 
 ## Testing
-f
+dq
 
 ## Contributing
-f
+qd
 
 ## Feedback
 your feedback is extremely important for improvements in future developments, in order to accomplish this, you can:
-w
+dq
 
 ## Developer Contact
-* GitHub Username: frfw
-* Email: fwf
+* GitHub Username: de
+* Email: ed
     
     
     

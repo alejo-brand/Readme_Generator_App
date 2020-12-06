@@ -37,7 +37,7 @@ ${data.license}
 
 \n* [License](#license)\n
 
-![License](https://img.shields.io/badge/LICENSE-${data.license}-informational.svg)
+![License](https://img.shields.io/badge/license-${data.license}-informational.svg)
 
 
 ## Testing
