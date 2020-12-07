@@ -6,11 +6,11 @@ erg
 ## Table of Content
 
 * [Motivation](#motivation)
-* [installation Instructions](#installation)
-* [Usage](#installation)
+* [installation Instructions](#Installation)
+* [Usage](#Usage)
 * [license](#license)
-* [installation Instructions](#installation)
-* [installation Instructions](#installation)
+* [Testing Instructions](#Testing)
+* [Contributing](#installation)
 * [installation Instructions](#installation)
 * [installation Instructions](#installation)
 * [installation Instructions](#installation)

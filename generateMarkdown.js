@@ -1,8 +1,3 @@
-// function createBadge ()
-
-
-
-
 
 //this function will generate the markdown for the readme
 function generateMarkdown(data){
@@ -17,11 +12,11 @@ ${data.description}
 * [installation Instructions](#installation)
 * [Usage](#installation)
 * [license](#license)
-* [installation Instructions](#installation)
-* [installation Instructions](#installation)
-* [installation Instructions](#installation)
-* [installation Instructions](#installation)
-* [installation Instructions](#installation)
+* [Testing](#testing)
+* [How to contribute to the project](#contribiting)
+* [How to submit your feedback](#feedback)
+* [Developer Contact](#developer contact)
+
 ## Motivation/Purpose
 ${data.motivation}
 
