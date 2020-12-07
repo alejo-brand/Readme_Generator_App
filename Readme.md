@@ -27,7 +27,7 @@ The user should clone the repo in the proper folder to its correct operation and
 
 ## License
 
-this project is covered under the GPL3.0 type license
+Note: this project is covered under the GPL3.0 type license
 
 ## Testing
 test
