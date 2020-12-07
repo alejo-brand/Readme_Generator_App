@@ -1,7 +1,9 @@
 # Readme Generator
 
+    ![License](https://img.shields.io/badge/license-GPL3.0-informational.svg)
+
 ## Description
-daefeff
+This app allows the developer creating professional readme files in a quick way 
 
 ## Table of Content
 
@@ -15,30 +17,30 @@ daefeff
 * [Developer Contact](#Developer Contact)
 
 ## Motivation/Purpose
-ff
+The motivation was to reduce the time spent creating the readme file allowing more time for the development phase
 
 ## Installation
 npm i
 
 ## Usage
-fwef
+The user should clone the repo in the proper folder to its correct operation and usage
 
 ## License
 
-![License](https://img.shields.io/badge/license-MIT-informational.svg)
+this project is covered under the GPL3.0 type license
 
 ## Testing
-fw
+test
 
 ## Contributing
-wfw
+User can colaborate submiting bugs to my gitHub page or email, requesting new features etc
 
 ## Feedback
 your feedback is extremely important for improvements in future developments, in order to accomplish this, you can:
-fw
+via email or gitHub
 
 ## Developer Contact
-* GitHub Username: alejo-brand
+* GitHub Username: https://github.com/alejo-brand
 * Email: alejandrobrand8@gmail.com
     
     
