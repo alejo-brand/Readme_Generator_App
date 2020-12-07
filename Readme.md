@@ -1,44 +1,44 @@
-# Readme Generator App
+# Readme Generator
 
 ## Description
-this app allows the developer create his/her readme files based on a series of question prompts
+daefeff
 
 ## Table of Content
 
-* [Motivation](#Motivation)
+* [Motivation](#Motivation/Purpose)
 * [installation Instructions](#Installation)
 * [Usage](#Usage)
 * [license](#License)
 * [Testing](#Testing)
-* [How to contribute to the project](#Contribiting)
+* [How to contribute to the project](#Contributing)
 * [How to submit your feedback](#Feedback)
 * [Developer Contact](#Developer Contact)
 
 ## Motivation/Purpose
-reducing the time spent on creating the readme file from scratch allowing more time to develop the acutal project
+ff
 
-## Instalation
+## Installation
 npm i
 
 ## Usage
-they just need to clone it in the folder they wish to use it from 
+fwef
 
 ## License
 
-![License](https://img.shields.io/badge/license-GPL3.0-informational.svg)
+![License](https://img.shields.io/badge/license-MIT-informational.svg)
 
 ## Testing
-testing 
+fw
 
 ## Contributing
-by submiting any issues, requesting a new feature via email, sending bugs the same way
+wfw
 
 ## Feedback
 your feedback is extremely important for improvements in future developments, in order to accomplish this, you can:
-by contacting me on my email or github profile
+fw
 
 ## Developer Contact
-* GitHub Username: Alejo-Brand
+* GitHub Username: alejo-brand
 * Email: alejandrobrand8@gmail.com
     
     
