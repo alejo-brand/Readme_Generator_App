@@ -9,7 +9,7 @@ ${data.description}
 ## Table of Content
 
 * [Motivation](#Motivation/Purpose)
-* [installation Instructions](#Instalation)
+* [installation Instructions](#Installation)
 * [Usage](#Usage)
 * [license](#License)
 * [Testing](#Testing)
@@ -20,7 +20,7 @@ ${data.description}
 ## Motivation/Purpose
 ${data.motivation}
 
-## Instalation
+## Installation
 ${data.installation}
 
 ## Usage
