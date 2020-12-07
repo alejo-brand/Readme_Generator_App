@@ -1,45 +1,44 @@
-# erg
+# Readme Generator App
 
 ## Description
-erg
+this app allows the developer create his/her readme files based on a series of question prompts
 
 ## Table of Content
 
 * [Motivation](#motivation)
-* [installation Instructions](#Installation)
-* [Usage](#Usage)
+* [installation Instructions](#installation)
+* [Usage](#installation)
 * [license](#license)
-* [Testing Instructions](#Testing)
-* [Contributing](#installation)
-* [installation Instructions](#installation)
-* [installation Instructions](#installation)
-* [installation Instructions](#installation)
+* [Testing](#testing)
+* [How to contribute to the project](#contribiting)
+* [How to submit your feedback](#feedback)
+* [Developer Contact](#developer contact)
+
 ## Motivation/Purpose
-eg
+reducing the time spent on creating the readme file from scratch allowing more time to develop the acutal project
 
 ## Instalation
-e
+npm i
 
 ## Usage
-rg
+they just need to clone it in the folder they wish to use it from 
 
 ## License
 
-![License](https://img.shields.io/badge/license-Apache2.0-informational.svg)
+![License](https://img.shields.io/badge/license-GPL3.0-informational.svg)
 
 ## Testing
-erg
+testing 
 
 ## Contributing
-erg
+by submiting any issues, requesting a new feature via email, sending bugs the same way
 
 ## Feedback
 your feedback is extremely important for improvements in future developments, in order to accomplish this, you can:
-erg
+by contacting me on my email or github profile
 
 ## Developer Contact
-* GitHub Username: erg
-* Email: erg
-    
+* GitHub Username: Alejo-Brand
+* Email: alejandrobrand8@gmail.com
     
     

@@ -45,6 +45,6 @@ ${data.feedback}
 * Email: ${data.email}
     
     
-    `;
+`;
 }
 module.exports = generateMarkdown;
