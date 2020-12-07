@@ -8,12 +8,12 @@ ${data.description}
 
 ## Table of Content
 
-* [Motivation](#Motivation)
-* [installation Instructions](#Installation)
+* [Motivation](#Motivation/Purpose)
+* [installation Instructions](#Instalation)
 * [Usage](#Usage)
 * [license](#License)
 * [Testing](#Testing)
-* [How to contribute to the project](#Contribiting)
+* [How to contribute to the project](#Contributing)
 * [How to submit your feedback](#Feedback)
 * [Developer Contact](#Developer Contact)
 
