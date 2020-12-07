@@ -5,14 +5,14 @@ this app allows the developer create his/her readme files based on a series of q
 
 ## Table of Content
 
-* [Motivation](#motivation)
-* [installation Instructions](#installation)
-* [Usage](#installation)
-* [license](#license)
-* [Testing](#testing)
-* [How to contribute to the project](#contribiting)
-* [How to submit your feedback](#feedback)
-* [Developer Contact](#developer contact)
+* [Motivation](#Motivation)
+* [installation Instructions](#Installation)
+* [Usage](#Usage)
+* [license](#License)
+* [Testing](#Testing)
+* [How to contribute to the project](#Contribiting)
+* [How to submit your feedback](#Feedback)
+* [Developer Contact](#Developer Contact)
 
 ## Motivation/Purpose
 reducing the time spent on creating the readme file from scratch allowing more time to develop the acutal project
