@@ -22,6 +22,7 @@ ${data.description}
 ${data.motivation}
 
 ## Installation
+type the following command to install the app
 ${data.installation}
 
 ## Usage
@@ -31,7 +32,7 @@ ${data.usage}
 
 this project is covered under the ${data.license} type license
 
-## Testing
+## Testing  
 ${data.test}
 
 ## Contributing
