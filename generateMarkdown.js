@@ -2,8 +2,8 @@
 //this function will generate the markdown for the readme
 function generateMarkdown(data){
     return `# ${data.projectName}
-
-    ![License](https://img.shields.io/badge/license-${data.license}-informational.svg)
+    
+![License](https://img.shields.io/badge/license-${data.license}-informational.svg)
 
 ## Description
 ${data.description}
@@ -17,7 +17,7 @@ ${data.description}
 * [Testing](#Testing)
 * [How to contribute to the project](#Contributing)
 * [How to submit your feedback](#Feedback)
-* [Developer Contact](#Developer Contact)
+* [Developer Contact](#Developer-Contact)
 
 ## Motivation/Purpose
 ${data.motivation}
