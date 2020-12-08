@@ -2,7 +2,6 @@
 //this function will generate the markdown for the readme
 function generateMarkdown(data){
     return `# ${data.projectName}
-    
 ![License](https://img.shields.io/badge/license-${data.license}-informational.svg)
 
 ## Description
