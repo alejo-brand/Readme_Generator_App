@@ -1,8 +1,8 @@
-# Readme Generator
-![License](https://img.shields.io/badge/license-GPL3.0-informational.svg)
+# Employee Directory
+![License](https://img.shields.io/badge/license-MIT-informational.svg)
 
 ## Description
-This project will allow the developer to create professional readme files through a series of prompts in the terminal and renedering the user's answer in the redme file created using the FS node module
+this is a website that allows to search for employees by name or last name and sort by name as well
 
 ## Table of Content
 
@@ -16,28 +16,28 @@ This project will allow the developer to create professional readme files throug
 * [Developer Contact](#Developer-Contact)
 
 ## Motivation/Purpose
-My main motivation was to reduce the time spent creating the readme files and allowing more time to the development phase of the project
+the motivation for this project was to create a React.js app that will make the process of finding an employee a lot faster
 
 ## Installation
 type the following command to install the app
-npm i
+npx create-react app 
 
 ## Usage
-the user needs to clone the repo in the folder they wish to use it
+user can clone or fork the repo from my GitHub account
 
 ## License
 
-this project is covered under the GPL3.0 type license
+this project is covered under the MIT type license
 
 ## Testing  
-testing
+test
 
 ## Contributing
-by submitting issues on my gitHub profile or requesting new features also submitting any bugs the app could have
+User can submit issues or upgrade requests through GitHub or email
 
 ## Feedback
 your feedback is extremely important for improvements in future developments, in order to accomplish this, you can:
-the user can contact me via email or github 
+I can be reached by email or GitHub
 
 ## Developer Contact
 * GitHub Username: https://github.com/alejo-brand
